@@ -90,3 +90,5 @@ Projeto desenvolvido em conjunto com meus colegas Weslley Silva e Rosimere Alcâ
 - **Pedro Henrique**
 - **Weslley Silva** — [LinkedIn](https://www.linkedin.com/in/weslleygcsilva/)
 - **Rosimere Alcântara** — [LinkedIn](https://www.linkedin.com/in/rosimere-alcantara-1a804a235/)
+
+- <img src="top15-quant-ai.png" width="400" alt="Top 15 Nacional - Desafio Quant AI 2025" />
